@@ -1,0 +1,44 @@
+# First Order Methods
+
+**Section:** Optimization Algorithms > First Order Methods
+
+---
+
+## Section Overview Prompt
+
+Use this prompt to get an overview of the entire **First Order Methods** section before diving into subtopics:
+
+```
+You are an expert deep learning educator.
+
+Give me a complete structured overview of "First Order Methods" as it appears in deep learning,
+within the context of "Optimization Algorithms".
+
+Cover:
+1. Why this topic exists — what gap or need does it address?
+2. The list of all subtopics in this section and how they relate to each other.
+3. The correct learning order (which subtopics to study first).
+4. The 3 most important concepts to deeply understand in this section.
+5. Common misconceptions beginners have about First Order Methods.
+6. One overarching project that ties all subtopics in this section together,
+   using a real dataset (MNIST, CIFAR-10, or UCI datasets).
+
+Treat me as a graduate student with a strong math background.
+Use LaTeX for equations. Be specific, not generic.
+```
+
+---
+
+## Subtopics in This Section
+
+- [Batch Gradient Descent](./01_Batch_Gradient_Descent/README.md)
+- [Stochastic GD](./05_Stochastic_GD/README.md)
+- [Mini Batch GD](./02_Mini_Batch_GD/README.md)
+- [Momentum](./03_Momentum/README.md)
+- [Nesterov Momentum](./04_Nesterov_Momentum/README.md)
+
+---
+
+## Notes
+
+*(Add section-level notes here)*
